@@ -5,15 +5,9 @@
 
 react瀑布流布局组件，使用简单方便
 
-## Usage
+## 组件库使用dumi开发，dumi官网 https://d.umijs.org/
 
-TODO
-
-## Options
-
-TODO
-
-## Development
+## 本地开发
 
 ```bash
 # install dependencies
@@ -22,20 +16,6 @@ $ npm install
 # develop library by docs demo
 $ npm start
 
-# build library source code
-$ npm run build
-
-# build library source code in watch mode
-$ npm run build:watch
-
-# build docs
-$ npm run docs:build
-
-# Locally preview the production build.
-$ npm run docs:preview
-
-# check your project for potential problems
-$ npm run doctor
 ```
 
 ## LICENSE
