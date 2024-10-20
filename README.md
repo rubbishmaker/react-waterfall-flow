@@ -1,7 +1,7 @@
-# react-Waterfall-flow
+# react-waterfall-flow
 
-[![NPM version](https://img.shields.io/npm/v/react-Waterfall-flow.svg?style=flat)](https://npmjs.org/package/react-Waterfall-flow)
-[![NPM downloads](http://img.shields.io/npm/dm/react-Waterfall-flow.svg?style=flat)](https://npmjs.org/package/react-Waterfall-flow)
+[![NPM version](https://img.shields.io/npm/v/react-waterfall-flow.svg?style=flat)](https://npmjs.org/package/react-waterfall-flow)
+[![NPM downloads](http://img.shields.io/npm/dm/react-waterfall-flow.svg?style=flat)](https://npmjs.org/package/react-waterfall-flow)
 
 react瀑布流布局组件，使用简单方便
 

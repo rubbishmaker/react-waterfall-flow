@@ -1,5 +1,5 @@
 {
-  "name": "react-Waterfall-flow",
+  "name": "react-waterfall-flow",
   "version": "0.0.1",
   "description": "react瀑布流布局组件，使用简单方便",
   "module": "dist/index.js",

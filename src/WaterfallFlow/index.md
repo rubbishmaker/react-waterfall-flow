@@ -2,8 +2,8 @@
 
 ## 不使用懒加载
 
-1.  npm install react-Waterfall-flow
-2.  import {WaterfallFlow} from 'react-Waterfall-flow';
+1.  npm install react-waterfall-flow
+2.  import {WaterfallFlow} from 'react-waterfall-flow';
 
 | 参数名        |                                    说明 |                     类型                     | 可选 | 默认值 |
 | ------------- | --------------------------------------: | :------------------------------------------: | :--: | :----: |
@@ -15,7 +15,7 @@
 | rootClassName |                    容器元素的 clas 类目 |                    string                    |
 
 ```jsx
-import { WaterfallFlow } from 'react-Waterfall-flow';
+import { WaterfallFlow } from 'react-waterfall-flow';
 import { mockData } from './demo/mock/index.ts';
 
 export default () => {
@@ -64,7 +64,7 @@ export default () => {
 | totalNumber          |总个数 |        number     |  -   |   -    |
 
 ```jsx
-import { WaterfallFlow } from 'react-Waterfall-flow';
+import { WaterfallFlow } from 'react-waterfall-flow';
 import { mockData } from './demo/mock/index.ts';
 import { useState } from 'react';
 

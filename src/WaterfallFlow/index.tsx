@@ -1,8 +1,8 @@
 import React, { useLayoutEffect, useRef, type FC } from 'react';
-import { CustomLoading,useIntersectionObserver } from 'react-Waterfall-flow';
+import { CustomLoading,useIntersectionObserver } from 'react-waterfall-flow';
 import { BasicItem, LoadingRefProps, WaterfallFlowProps } from './typing';
 
-const WaterfallFlow: FC<WaterfallFlowProps<BasicItem> & LoadingRefProps> =
+const waterfallFlow: FC<WaterfallFlowProps<BasicItem> & LoadingRefProps> =
   React.memo((props) => {
     /**
      * @param
@@ -136,5 +136,5 @@ const WaterfallFlow: FC<WaterfallFlowProps<BasicItem> & LoadingRefProps> =
     );
   });
 
-export default WaterfallFlow;
-export { WaterfallFlow };
+export default waterfallFlow;
+export { waterfallFlow };

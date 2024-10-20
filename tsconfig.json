@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "react-Waterfall-flow": ["src"],
-      "react-Waterfall-flow/*": ["src/*", "*"]
+      "react-waterfall-flow": ["src"],
+      "react-waterfall-flow/*": ["src/*", "*"]
     }
   },
   "include": [".dumirc.ts", "src/**/*"]
