@@ -9,6 +9,7 @@
     "dev": "dumi dev",
     "build": "father build",
     "deploy": "gh-pages -d dist",
+    "deploy-doc": "gh-pages -d docs-dist",
     "build:watch": "father dev",
     "docs:build": "dumi build",
     "docs:preview": "dumi preview",
