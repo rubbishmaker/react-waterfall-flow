@@ -21,6 +21,7 @@ const customLoading: FC<any> = ({
   useEffect(() => {
     if (current >= maxCurrent) {
       ob?.unobserve?.(loadingRef?.current);
+      return
     }
     ob?.observe?.(loadingRef?.current);
   }, [current, maxCurrent]);
