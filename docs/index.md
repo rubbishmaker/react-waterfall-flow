@@ -1,5 +1,6 @@
 # 基本使用
 
+#中文文档  https://rubbishmaker.github.io/react-waterfall-flow/
 ## 不使用懒加载
 
 1.  npm install react-waterfall-flow
